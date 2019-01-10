@@ -153,4 +153,14 @@ class Formulario extends Component {
   }
 }
 
-export default Formulario;
+class AppFormulario extends Component {
+  render() {
+    return (
+      <div className="container-Formulario">
+        <Formulario />;
+      </div>
+    );
+  }
+}
+
+export default AppFormulario;

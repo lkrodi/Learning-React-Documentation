@@ -123,4 +123,14 @@ class Calculador extends Component {
   }
 }
 
-export default Calculador;
+class AppGlobalEstado extends Component {
+  render() {
+    return (
+      <div className="container-GlobalEstado">
+        <Calculador />
+      </div>
+    );
+  }
+}
+
+export default AppGlobalEstado;
