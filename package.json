@@ -1,7 +1,7 @@
 {
   "name": "react-documentation-2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aprendiendo ReacrJS desde la Documentacion",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
